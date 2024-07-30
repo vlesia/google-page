@@ -1,0 +1,15 @@
+@import url('./footer.css');
+@import url('./header.css');
+@import url('./main.css');
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  font-size: 14px; 
+  margin: 0;
+  padding: 0;
+}
+
+
